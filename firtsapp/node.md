@@ -1,2 +1,2 @@
-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
-https://xvbnm48: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@github.com/xvbnm48/learning-nodejs.git
+
+https://xvbnm48:token@github.com/xvbnm48/learning-nodejs.git
